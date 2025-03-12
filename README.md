@@ -67,10 +67,6 @@ The dataset is open for free use, raw data download at (https://github.com/Zijia
 - **System implementation on Jetson Orin Nano.**
 
 <p align="center">
-  <img src="Image/Runtime1.jpg" />
-</p>
-
-<p align="center">
   <img src="Image/Runtime2.png" />
 </p>
 The full Demo is published at : https://www.youtube.com/watch?v=8uXFvbUzbX8
