@@ -42,7 +42,7 @@ The dataset is open for free use, raw data download at (https://github.com/Zijia
 ## Results
 
 - **Ablation Experiments.**
-<div align=center>Figure: Ablation Experiments.</div>
+<div align=center>Figure: AblationExperiments.</div>
 <p align="center">
   <img src="Image/Ablation Experiments.png" title="Ablation Experiments" />
 </p>
