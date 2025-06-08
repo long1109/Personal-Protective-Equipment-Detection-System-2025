@@ -71,7 +71,7 @@ The dataset is open for free use, raw data download at (https://github.com/Zijia
 </p>
 The full Demo is published at : https://www.youtube.com/watch?v=8uXFvbUzbX8
 
--- **Generalisation Across Environment Test.**
+- **Generalisation Across Environment Test.**
 
 <p align="center">
   <img src="Image/generalisation.png" />
