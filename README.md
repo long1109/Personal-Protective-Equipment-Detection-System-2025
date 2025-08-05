@@ -1,4 +1,4 @@
-# Personal Protective Equipment detection using YOLOv8 with Global Attention Mechanism and Dynamic Focus Mechanism (Status: Revised after Major revision)
+# Personal Protective Equipment detection using YOLOv8 with Global Attention Mechanism and Dynamic Focus Mechanism (Status:2nd Revised after Major revision)
 
 
 ## Introduction
@@ -54,14 +54,14 @@ The dataset is open for free use, raw data download at (https://github.com/Zijia
 </p>
 
 - **Detection.**
-<div align=center>Figure: Original method.</div>
+<div align=center>Figure: Comparision results.</div>
 <p align="center">
-  <img src="Image/original.jpg" title="Original method" />
+  <img src="Image/Compare.png" title="Original method" />
 </p>
 
-<div align=center>Figure: Proposed method.</div>
+<div align=center>Figure: Comparision results.</div>
 <p align="center">
-  <img src="Image/proposed.jpg" title="Proposed method" />
+  <img src="Image/Compare2.png" title="Proposed method" />
 </p>
 
 - **System implementation on Jetson Orin Nano.**
