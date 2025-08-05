@@ -1,0 +1,8 @@
+train: /content/gdrive/MyDrive/CHV_Dataset_Y8/CHV_Dataset_Y8/train/images  # 128 images
+val: /content/gdrive/MyDrive/CHV_Dataset_Y8/CHV_Dataset_Y8/val/images  # 128 images
+
+# train: /content/gdrive/MyDrive/CityScapes/City_scapes_v3/train/images
+# val: /content/gdrive/MyDrive/CityScapes/City_scapes_v3/val/images
+
+nc: 6
+names: ['0', '1', '2', '3', '4', '5']
