@@ -61,7 +61,7 @@ The dataset is open for free use, raw data download at (https://github.com/Zijia
 
 <div align=center>Figure: Comparision results.</div>
 <p align="center">
-  <img src="Image/Compare2.png" title="Chanllenged cases" />
+  <img src="Image/compare2.png" title="Chanllenged cases" />
 </p>
 
 - **System implementation on Jetson Orin Nano.**
