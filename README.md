@@ -1,4 +1,4 @@
-# Personal Protective Equipment detection using YOLOv8 with Global Attention Mechanism and Dynamic Focus Mechanism (Status: 2nd Revised after Major revision)
+# Personal Protective Equipment detection using YOLOv8 with Global Attention Mechanism and Dynamic Focus Mechanism (Status: 3rd Revised)
 
 
 ## Introduction
@@ -77,6 +77,11 @@ The full Demo is published at : https://www.youtube.com/watch?v=8uXFvbUzbX8
   <img src="Image/generalisation.png" />
 </p>
 
+- **Real-time stress testing.**
+
+<p align="center">
+  [![Watch on YouTube](https://www.youtube.com/watch?v=UwaFI-71JCQ/0.jpg)](https://www.youtube.com/watch?v=UwaFI-71JCQ)
+</p>
 ## Citation
 	
 `P. H. Long and T. Q. Vinh `
