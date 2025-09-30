@@ -79,9 +79,8 @@ The full Demo is published at : https://www.youtube.com/watch?v=8uXFvbUzbX8
 
 - **Real-time stress testing.**
 
-<p align="center">
-  [![Watch on YouTube](https://www.youtube.com/watch?v=UwaFI-71JCQ/0.jpg)](https://www.youtube.com/watch?v=UwaFI-71JCQ)
-</p>
+[![Watch on YouTube](https://img.youtube.com/vi/UwaFI-71JCQ/0.jpg)](https://www.youtube.com/watch?v=UwaFI-71JCQ)
+
 ## Citation
 	
 `P. H. Long and T. Q. Vinh `
