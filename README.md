@@ -81,6 +81,12 @@ The full Demo is published at : https://www.youtube.com/watch?v=8uXFvbUzbX8
 
 [![Watch on YouTube](https://img.youtube.com/vi/UwaFI-71JCQ/0.jpg)](https://www.youtube.com/watch?v=UwaFI-71JCQ)
 
+- **Feature Extraction.**
+<div align=center>Figure: Feature Extraction.</div>
+<p align="center">
+  <img src="Image/featureextraction.png" title="Feature Extraction." />
+</p>
+
 ## Citation
 	
 `P. H. Long and T. Q. Vinh `
