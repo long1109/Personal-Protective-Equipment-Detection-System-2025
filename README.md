@@ -1,4 +1,4 @@
-# Personal Protective Equipment detection using YOLOv8 with Global Attention Mechanism and Dynamic Focus Mechanism (Status: 3rd Revised)
+# Personal Protective Equipment detection using YOLOv8 with Global Attention Mechanism and Dynamic Focus Mechanism (Status: 4th Revised)
 
 
 ## Introduction
